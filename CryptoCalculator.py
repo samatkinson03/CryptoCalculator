@@ -24,10 +24,10 @@ def get_token_price(token_name):
     return None
 
 tokens = {
-    "cardano": 9501.702241,
-    "snek": 740803,
-    "fren-ada-peepos": 14000000,
-    "world-mobile-token": 6073.456088
+    "cardano": 20000,
+    "bitcoin": 1,
+    "solana": 200,
+    "xrp": 6073.456088
 }
 
 file_name = 'ValueGraph.xlsx'
